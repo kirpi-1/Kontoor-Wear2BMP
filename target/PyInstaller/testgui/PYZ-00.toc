@@ -1,0 +1,1 @@
+('E:\\Project\\Webapp\\target\\PyInstaller\\testgui\\PYZ-00.pyz', [])
