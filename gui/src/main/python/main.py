@@ -162,15 +162,22 @@ class LAIZER(QMainWindow):
             header = ('images',(name,open(path,'rb').read(),'image/'+ext[1:].lower()));
             files.append(header);
         r = self.http.request('POST', self.baseURL + "/App", fields=files,preload_content=False)
+        self.statusBar().showMessage("Uplaoding...")
+        dotCount = 0;
         with open(os.path.join(self.text_outputFolder.toPlainText(),"results.zip"), 'wb') as out:
             while True:
                 data = r.read(128)
                 if not data:
                     break
                 out.write(data)
+                msg = "Downloading"
+                for i in range(dotCount):
+                    msg = msg + "."
+                dotCount = dotCount + 1
+                if(dotCount>100):
+                    dotCount=0
+                self.statusBar().showMessage("Downloading", 10000)
         r.release_conn()
-
-        #TODO add a GET request and save the result, 'r', as file.
 
 
 

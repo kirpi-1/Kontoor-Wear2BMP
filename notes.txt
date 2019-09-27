@@ -1,0 +1,7 @@
+Use QTDesigner to make the gui (way easier), then go into python and define the callbacks
+
+for building the gui, be in the gui environment (conda activate gui). It has fbs and pyqt5 installed.
+use fbs freeze while in Webapp\gui to build. Use --debug tag to get debug info. If you get "Permission Denied" error try building again immediately, otherwise check windows, etc. are closed.
+
+for flask program, have to run in pytorch environment (conda activate pytorch). It has pytorch installed. Run flaskAPI\wear2bmp.py
+Need to deploy real version of server.

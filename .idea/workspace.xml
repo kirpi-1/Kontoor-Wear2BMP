@@ -1,7 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f79c66c5-2d2b-4bdd-af0f-cd999de870ce" name="Default Changelist" comment="" />
+    <list default="true" id="f79c66c5-2d2b-4bdd-af0f-cd999de870ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/flaskAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskAPI/wear2bmp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/flaskTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskTest/flasktest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskAPI/tmp/192.168.1.13/laserfiles.zip" beforeDir="false" afterPath="$PROJECT_DIR$/flaskAPI/tmp/192.168.1.13/laserfiles.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/src/main/python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/src/main/python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui.spec" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/graph-gui.dot" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/graph-gui.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/gui.exe" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/gui.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/warn-gui.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/warn-gui.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/PyInstaller/gui/xref-gui.html" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/PyInstaller/gui/xref-gui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/LIBEAY32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/LIBEAY32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/MSVCP140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/MSVCP140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/libeay32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/libeay32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/ssleay32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/bin/ssleay32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/bearer/qgenericbearer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/bearer/qgenericbearer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qgif.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qgif.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qicns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qicns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qjpeg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qjpeg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qsvg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qsvg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qtga.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qtga.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qtiff.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qtiff.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qwbmp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qwbmp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qwebp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/imageformats/qwebp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qminimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qminimal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qoffscreen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qoffscreen.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qwebgl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qwindows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_ar.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_bg.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_ca.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_cs.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_da.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_de.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_en.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_es.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_fi.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_fr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_gd.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_he.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_hu.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_it.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_ja.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_ko.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_lv.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_pl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_ru.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_sk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/Qt/translations/qtbase_uk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtCore.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtCore.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtGui.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtGui.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtNetwork.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtNetwork.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtWidgets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/QtWidgets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/sip.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qaxcontainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qaxcontainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qscintilla.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qscintilla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtcharts.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtcharts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtprintsupport.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtprintsupport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtquickwidgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtquickwidgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtwebenginewidgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtwebenginewidgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtwebkit.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/PyQt5/uic/widget-plugins/qtwebkit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5DBus.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Gui.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Gui.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Network.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Network.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Qml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Qml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Quick.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Quick.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Svg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Svg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5WebSockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/Qt5Widgets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/Qt5Widgets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/VCRUNTIME140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/VCRUNTIME140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_bz2.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_bz2.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_elementtree.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_elementtree.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_hashlib.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_hashlib.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_lzma.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_lzma.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_socket.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_socket.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/_ssl.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/_ssl.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/concrt140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/gui.exe" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/gui.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/pyexpat.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/pyexpat.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/python3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/python3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/python36.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/python36.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/select.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/select.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/settings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/unicodedata.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/unicodedata.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/target/gui/vccorlib140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/gui/target/gui/vccorlib140.dll" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +132,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OYvzNOLhaue4oDWAeD8RnQez7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -42,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.scratch_1">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Webapp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,9 +279,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.wear2bmp" />
       </list>
     </recent_temporary>
@@ -176,6 +298,17 @@
       <updated>1564167605653</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
