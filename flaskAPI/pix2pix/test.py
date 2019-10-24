@@ -2,7 +2,7 @@ import os
 from options.test_options import TestOptions
 from data import CreateDataLoader
 from models import create_model
-from util.visualizer import save_images
+#from util.visualizer import save_images
 from util import html
 
 
@@ -31,10 +31,10 @@ if __name__ == '__main__':
             break
         model.set_input(data)
         model.test()
-        visuals = model.get_current_visuals()
+        #visuals = model.get_current_visuals() //Zack edit, commented out
         img_path = model.get_image_paths()
         if i % 5 == 0:
             print('processing (%04d)-th image... %s' % (i, img_path))
-        save_images(webpage, visuals, img_path, aspect_ratio=opt.aspect_ratio, width=opt.display_winsize)
+        #save_images(webpage, visuals, img_path, aspect_ratio=opt.aspect_ratio, width=opt.display_winsize) //Zack edit, commented out
     # save the website
     webpage.save()

@@ -2,7 +2,7 @@
              aspect_ratio: 1.0                           
                batch_size: 1                             
           checkpoints_dir: ./checkpoints                 
-                 dataroot: ./tmp/192.168.1.13\images     	[default: None]
+                 dataroot: ./tmp/127.0.0.1\images        	[default: None]
              dataset_mode: single                        
                 direction: AtoB                          
           display_winsize: 256                           
@@ -33,7 +33,7 @@
                 output_nc: 1                             	[default: 3]
                     phase: test                          
            resize_or_crop: resize_and_crop               
-              results_dir: ./tmp/192.168.1.13/results/   	[default: ./results/]
+              results_dir: ./tmp/127.0.0.1/results/      	[default: ./results/]
            serial_batches: False                         
                    suffix:                               
         use_upsample_conv: True                          	[default: False]
