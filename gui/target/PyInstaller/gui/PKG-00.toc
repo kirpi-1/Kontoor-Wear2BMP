@@ -25,7 +25,7 @@
    'c:\\users\\darren\\.conda\\envs\\gui\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('fbs_pyinstaller_hook',
-   'C:\\Users\\Darren\\AppData\\Local\\Temp\\tmp6pc30fjh\\fbs_pyinstaller_hook.py',
+   'C:\\Users\\Darren\\AppData\\Local\\Temp\\tmpvkikes1q\\fbs_pyinstaller_hook.py',
    'PYSOURCE'),
   ('pyi_rth_pyqt5',
    'c:\\users\\darren\\.conda\\envs\\gui\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pyqt5.py',
